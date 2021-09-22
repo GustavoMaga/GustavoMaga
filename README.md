@@ -1,4 +1,4 @@
-## Olá eu sou o Gustavo e trampo na: [Claranet Brasil](https://br.claranet.com/)
+## Olá eu sou o Gustavo e trampo na: [Mercado Livre](https://www.mercadolivre.com.br/)
  <div>
   <a href="https://github.com/GustavoMaga">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoMaga&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
