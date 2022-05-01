@@ -20,6 +20,6 @@
   <a href = "mailto: gustaprintf@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank">     </a>
   <a href="https://www.linkedin.com/in/gustavo-magalh%C3%A3es-da-s-ribeiro-b8616b11b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/CaiqueMenezes/CaiqueMenezes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GustavoMaga/GustavoMaga/blob/output/github-contribution-grid-snake.svg)
  
  </div>
